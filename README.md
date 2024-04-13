@@ -68,4 +68,24 @@ Figure -02 HALF Subtractor
 
 ![Screenshot 2024-04-10 143806](https://github.com/subha-shinibalasubramanian/HALF_ADDER_SUBTRACTOR/assets/164154478/22bde68d-0052-4ec7-9e53-855664b79963)
 
-**Result:**
+## HALF SUBTRACTOR
+
+**Program:**
+
+![image](https://github.com/subha-shinibalasubramanian/HALF_ADDER_SUBTRACTOR/assets/164154478/49669bce-5d04-4f25-bb4f-cbb793a72320)
+
+**RTL Schematic**
+
+![Screenshot 2024-04-13 194258](https://github.com/subha-shinibalasubramanian/HALF_ADDER_SUBTRACTOR/assets/164154478/1386d1b9-e29a-416a-9ab4-48772f1a3371)
+
+**Truthtable**
+
+![Screenshot 2024-04-13 195011](https://github.com/subha-shinibalasubramanian/HALF_ADDER_SUBTRACTOR/assets/164154478/bd1bc86e-0fe1-4aeb-b83d-f769277ba7ac)
+
+**Output/TIMING Waveform**
+
+![Screenshot 2024-04-13 194620](https://github.com/subha-shinibalasubramanian/HALF_ADDER_SUBTRACTOR/assets/164154478/4e23946b-b66f-4656-8ba4-bf8ff63c43fd)
+
+
+**Result:**  
+Thus the program was successfully verified.
